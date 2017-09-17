@@ -1,0 +1,11 @@
+# Ignore CMake outputs
+
+CMakeCache.txt
+CMakeFiles/
+Makefile
+CMakeDoxyfile.in
+CMakeDoxygenDefaults.cmake
+cmake_install.cmake
+testStudent
+.DS_Store
+test/*.out

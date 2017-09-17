@@ -1,0 +1,9 @@
+/**
+\mainpage The mainpage documentation
+
+This is the Mainpage of the full example. Here is a  \ref page1 "link" to another page.
+
+The main class of this project is class \ref Student "Student"
+
+
+*/
