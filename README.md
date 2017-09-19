@@ -1,7 +1,7 @@
 # What is sorga_example
-Sorga_example is an example for configuring a simple Project with
-cmake. It includes, an example library, the configuration for Doxygen
-and testings
+Sorga_example is an example for configuring a simple software project with
+Cmake. It includes an example library, the configuration for Doxygen
+and testings.
 
 # Requirements
 - Cmake minimum version 2.8
@@ -14,7 +14,7 @@ To clone sorga_project use:
 
 The --recursive option is mandatory!
 
-To configure sorga_example, naviagate to the desired output folder and use:
+To configure sorga_example navigate to the desired output folder and use:
 
     % cmake "path to the project"
 
@@ -22,7 +22,7 @@ To build the project simply run:
 
     % make
 
-The documentations can be build with
+The documentations can be build with:
 
     % make doc
 
