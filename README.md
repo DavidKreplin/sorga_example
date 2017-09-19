@@ -30,3 +30,6 @@ To run the test calculations run:
 
     % make test
 
+# Installation
+
+Installation script is missing!
